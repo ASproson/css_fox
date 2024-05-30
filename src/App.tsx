@@ -1,9 +1,10 @@
 import "./App.css";
+import { FoxUmbrellas } from "./components/FoxUmbrellas";
 
 function App() {
   return (
     <div>
-      <h1 className="text-red-500">Hello world</h1>
+      <FoxUmbrellas />
     </div>
   );
 }
