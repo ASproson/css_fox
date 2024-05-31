@@ -4,6 +4,8 @@ This repo is a recreation of [LAIN](https://dribbble.com/shots/24027033-Fox-Umbr
 
 Additionally, there is no responsive/mobile design provided, so I implemented my own.
 
+You can view the live webpage [here](https://asproson.github.io/css_fox/)
+
 ## Original Design
 <p>
   <img src="https://github.com/ASproson/css_fox/assets/77736272/c365ae46-d9b9-4e9f-aad4-24ed3d574c6f" width="45%" height="800">
