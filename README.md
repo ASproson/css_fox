@@ -8,18 +8,18 @@ You can view the live webpage [here](https://asproson.github.io/css_fox/)
 
 ## Original Design
 <p>
-  <img src="https://github.com/ASproson/css_fox/assets/77736272/c365ae46-d9b9-4e9f-aad4-24ed3d574c6f" width="45%" height="800">
+  <img src="https://github.com/ASproson/css_fox/assets/77736272/c365ae46-d9b9-4e9f-aad4-24ed3d574c6f" >
 </p>
 
 ## Recreation
 
 <p >
-  <img src="https://github.com/ASproson/css_fox/assets/77736272/00c96dac-5e5a-4dd2-9223-aec592f0a38e" width="45%" height="800">
+  <img src="https://github.com/ASproson/css_fox/assets/77736272/00c96dac-5e5a-4dd2-9223-aec592f0a38e">
 </p>
 
 ## Mobile view
 
 <p>
-  <img src="https://github.com/ASproson/css_fox/assets/77736272/64d282d9-ffbd-4cf9-bab4-f318d4b8cf12" height="800">
+  <img src="https://github.com/ASproson/css_fox/assets/77736272/64d282d9-ffbd-4cf9-bab4-f318d4b8cf12" >
 </p>
 
